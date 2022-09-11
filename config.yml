@@ -11,10 +11,10 @@ favicon: "https://github.com/githubworldjoker.png?size=40"
 url: https://githubworldjoker.github.io/medicineworld/
 
 # github profile url
-github: "https://github.com/githubworldjoker"
+github: "https://github.com/"
 
 # footer message
-footer: © 2022-2023 @githubworldjoker
+footer: © 2022-2023 @LQ
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -26,7 +26,7 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: google
+    default: bing
     # 可选的搜索引擎
     engines:
       - google
@@ -35,6 +35,7 @@ webstack:
       - baidu
       - bilibili
       - zhihu
+      - bing
 
 content:
   categories:
