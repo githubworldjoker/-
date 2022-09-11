@@ -41,14 +41,14 @@ content:
     - name: 非专业区
       sites:
         - name: 就诊问问
-          description: 较为全面的医学常识平台
+          description: 较为全面的医学咨询平台
           url: https://ask.nocode.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
+        - name: 默沙东诊疗手册
+          description: 经典专业医学科普网站
+          url: https://www.msdmanuals.cn/home
+        - name: 百科名医
+          description: 适配手机的医学百科
+          url: https://m.baikemy.com/v1/
         - name: 站酷
           description: 中国人气设计师互动平台
           url: http://www.zcool.com.cn/
