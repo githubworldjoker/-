@@ -29,12 +29,12 @@ webstack:
     default: bing
     # 可选的搜索引擎
     engines:
-      - bing
+      - google
       - github
       - baidu
       - bilibili
       - zhihu
-      - google
+      - bing
 content:
   categories:
     - name: 常用推荐
