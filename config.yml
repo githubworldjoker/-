@@ -44,7 +44,7 @@ content:
           description: 较为全面的医学咨询平台
           url: https://ask.nocode.com/
         - name: 默沙东诊疗手册
-          description: 经典专业医学科普网站
+          description: 专业医学科普网站
           url: https://www.msdmanuals.cn/home
         - name: 百科名医
           description: 适配手机的医学百科
@@ -52,15 +52,15 @@ content:
         - name: 医脉通
           description: 医学新闻网站
           url: https://www.medlive.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
+        - name: 丁香医生
+          description: 经典医学科普网站
+          url: https://dxy.com/
+        - name: 用药助手
+          description: 丁香园旗下药品科普网站
+          url: https://drugs.dxy.cn/
+        - name: 医学微视
+          description: 医学科普视频平台
+          url: https://www.mvyxws.com/
         - name: Producthunt
           description: 发现新鲜有趣的产品
           url: https://www.producthunt.com/
