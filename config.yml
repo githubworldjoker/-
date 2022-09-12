@@ -49,9 +49,9 @@ content:
         - name: 百科名医
           description: 适配手机的医学百科
           url: https://m.baikemy.com/v1/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
+        - name: 医脉通
+          description: 医学新闻网站
+          url: https://www.medlive.cn/
         - name: Pinterest
           description: 全球美图收藏采集站
           url: https://www.pinterest.com/
