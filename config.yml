@@ -76,7 +76,7 @@ content:
         - name: 世界卫生组织
           description: 世卫官方网站
           url: https://www.who.int/zh
-    - name: 体制内学习
+    - name: 体制学习
       sites:
         - name: 咕噜素材
           description: 质量很高的设计素材网站（推荐）
