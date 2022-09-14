@@ -90,7 +90,7 @@ content:
         - name: 电鸭社区
           description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
           url: https://eleduck.com/
-    - name: 社区资讯
+    - name: 学术相关
       sites:
         - name: 雷锋网
           description: 人工智能和智能硬件领域的互联网科技媒体
