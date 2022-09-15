@@ -87,6 +87,9 @@ content:
         - name: 在线英语听力室
           description: 包含各种类型的英语听力内容
           url: http://m.tingroom.com/
+        - name: 雅思在线机考
+          description: 英文界面的雅思在线练习平台
+          url: http://mini-ielts.com/ 
         - name: 研招网
           description: 中国研究生招生信息网
           url: https://yz.chsi.com.cn/ 
