@@ -84,12 +84,13 @@ content:
         - name: 考试酷
           description: 各行业考试题库，医学题很多且在不断更新
           url: https://www.examcoo.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
+        - name: 在线英语听力室
+          description: 包含各种类型的英语听力内容
+          url: http://m.tingroom.com/
+        - name: 研招网
+          description: 中国研究生招生信息网
+          url: https://yz.chsi.com.cn/
+        
     - name: 学术相关
       sites:
         - name: 雷锋网
