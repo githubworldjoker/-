@@ -89,8 +89,7 @@ content:
           url: http://m.tingroom.com/
         - name: 研招网
           description: 中国研究生招生信息网
-          url: https://yz.chsi.com.cn/
-        
+          url: https://yz.chsi.com.cn/ 
     - name: 学术相关
       sites:
         - name: 雷锋网
