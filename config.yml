@@ -78,12 +78,12 @@ content:
           url: https://www.who.int/zh
     - name: 体制学习
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
+        - name: 英语真题在线
+          description: 专八，四六级，考研真题都有，质量很高
+          url: https://zhenti.burningvocabulary.com/
+        - name: 考试酷
+          description: 各行业考试题库，医学题很多且在不断更新
+          url: https://www.examcoo.com/
         - name: 字体仓库
           description: 最全的免费商用字体库
           url: https://www.ziticangku.com/
