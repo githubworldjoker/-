@@ -98,9 +98,9 @@ content:
           url: http://download.kaoyan.com/
     - name: 学术相关
       sites:
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
+        - name: 中国知网
+          description: 国内经典学术信息交流网站
+          url: https://i.cnki.net/#/
         - name: 数英网
           description: 数字媒体及职业招聘网站
           url: https://www.digitaling.com/
