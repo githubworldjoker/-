@@ -101,9 +101,9 @@ content:
         - name: 中国知网
           description: 国内经典学术信息交流网站
           url: https://i.cnki.net/#/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
+        - name: 小鲸鱼文献
+          description: 免费且全面的文献搜索引擎
+          url: http://www.9312.net/#/
         - name: 猎云网
           description: 互联网创业项目推荐和创业创新资讯
           url: http://www.lieyunwang.com/
