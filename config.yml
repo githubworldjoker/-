@@ -104,9 +104,9 @@ content:
         - name: 小鲸鱼文献
           description: 免费且全面的文献搜索引擎
           url: http://www.9312.net/#/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
+        - name: 万方数据
+          description: 各行业学术信息平台
+          url: https://www.wanfangdata.com.cn/index.html?index=true
         - name: 人人都是产品经理
           description: 产品经理、产品爱好者学习交流平台
           url: http://www.woshipm.com/
