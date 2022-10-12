@@ -122,4 +122,7 @@ content:
         - name: MDPI论坛
           description: 科研文章论坛，医学科类分得很细致
           url: https://www.mdpi.com/
+        - name: 知网随问
+          description: 学术相关知识搜索引擎
+          url: https://qa.cnki.net/web/
        
