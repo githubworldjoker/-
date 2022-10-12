@@ -95,7 +95,10 @@ content:
           url: https://yz.chsi.com.cn/ 
         - name: 考研帮
           description: 词条性质的考研资料分享网站，质量多变
-          url: http://download.kaoyan.com/
+          url: http://download.kaoyan.com/ 
+        - name: youzack英语
+          description: 英语听力精听背单词神器
+          url: https://www.youzack.com/
     - name: 学术相关
       sites:
         - name: 中国知网
@@ -107,6 +110,4 @@ content:
         - name: 万方数据
           description: 各行业学术信息平台
           url: https://www.wanfangdata.com.cn/index.html?index=true
-        - name: youzack英语
-          description: 英语听力精听背单词神器
-          url: https://www.youzack.com/
+       
