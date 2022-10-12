@@ -99,6 +99,9 @@ content:
         - name: youzack英语
           description: 英语听力精听背单词神器
           url: https://www.youzack.com/
+        - name: 柯林斯词典
+          description: 内容及其全面的英语词典
+          url: https://www.collinsdictionary.com/zh/
     - name: 学术相关
       sites:
         - name: 中国知网
