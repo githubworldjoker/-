@@ -107,3 +107,6 @@ content:
         - name: 万方数据
           description: 各行业学术信息平台
           url: https://www.wanfangdata.com.cn/index.html?index=true
+        - name: youzack英语
+          description: 英语听力精听背单词神器
+          url: https://www.youzack.com/
