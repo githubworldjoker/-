@@ -116,4 +116,8 @@ content:
         - name: readpaper
           description: 论文学术讨论社区
           url: https://readpaper.com/
+        - name: MDPI论坛
+          description: 科研文章论坛，医学科类分得很细致
+          url: https://www.mdpi.com/
+       
        
