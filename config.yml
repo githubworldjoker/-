@@ -113,4 +113,7 @@ content:
         - name: OALib
           description: 较为全面的论文搜索平台
           url: https://www.oalib.com/
+        - name: readpaper
+          description: 论文学术讨论社区
+          url: https://readpaper.com/
        
