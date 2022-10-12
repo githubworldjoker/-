@@ -110,4 +110,7 @@ content:
         - name: 万方数据
           description: 各行业学术信息平台
           url: https://www.wanfangdata.com.cn/index.html?index=true
+        - name: OALib
+          description: 较为全面的论文搜索平台
+          url: https://www.oalib.com/
        
