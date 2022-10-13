@@ -128,4 +128,6 @@ content:
         - name: 知网随问
           description: 学术相关知识搜索引擎
           url: https://qa.cnki.net/web/
-       
+        - name: semantic
+          description: 老牌论文搜索引擎，需要一定的英文基础
+          url: https://www.semanticscholar.org/
