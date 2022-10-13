@@ -102,6 +102,9 @@ content:
         - name: 柯林斯词典
           description: 内容及其全面的英语词典
           url: https://www.collinsdictionary.com/zh/
+        - name: 大学资源网
+          description: 里面有许多医学课程
+          url: http://www.dxzy163.com/
     - name: 学术相关
       sites:
         - name: 中国知网
