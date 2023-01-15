@@ -196,3 +196,68 @@ content:
         - name: 乐愚社区
           description: 
           url: https://bbs.leyuz.net/
+    - name: 各类导航
+      sites:
+        - name: 酷站吧
+          description: 
+          url: http://www.kuz8.com/index.php
+        - name: 小鲸鱼搜书
+          description: 
+          url: http://www.9871.org/
+        - name: 沙雕导航
+          description: 
+          url: https://shadiao.app/
+        - name: 福利吧导航
+          description: 
+          url: https://fuliba123.net/
+        - name: 智酷导航
+          description: 
+          url: https://www.wisecoco.com/
+        - name: 聚收集导航
+          description: 
+          url: https://www.sjsdhw.com/
+        - name: 少数派
+          description: 
+          url: https://sspai.com/
+        - name: 创造者日报
+          description: 
+          url: https://creatorsdaily.com/
+        - name: 新趣集
+          description: 
+          url: https://xinquji.com/
+        - name: IT之家
+          description: 
+          url: https://soft.ithome.com/
+        - name: V2EX发现
+          description: 
+          url: https://v2ex.com/go/share
+        - name: alternativeto
+          description: 
+          url: https://alternativeto.net/
+        - name: sourceforge
+          description: 
+          url: https://sourceforge.net/
+        - name: filehippo
+          description: 
+          url: https://filehippo.com/
+        - name: makeuseof
+          description: 
+          url: https://www.makeuseof.com/
+        - name: lifehacker
+          description: 
+          url: https://lifehacker.com/   
+        - name: 52破解
+          description: 
+          url: https://www.52pojie.cn/
+        - name: 卡饭论坛
+          description: 
+          url: https://bbs.kafan.cn/
+        - name: 学破解
+          description: 
+          url: https://www.xuepojie.com/
+        - name: 远景论坛
+          description: 
+          url: https://bbs.pcbeta.com/
+        - name: 乐愚社区
+          description: 
+          url: https://bbs.leyuz.net/
