@@ -180,4 +180,19 @@ content:
           url: https://www.makeuseof.com/
         - name: lifehacker
           description: 
-          url: https://lifehacker.com/          
+          url: https://lifehacker.com/   
+        - name: 52破解
+          description: 
+          url: https://www.52pojie.cn/
+        - name: 卡饭论坛
+          description: 
+          url: https://bbs.kafan.cn/
+        - name: 学破解
+          description: 
+          url: https://www.xuepojie.com/
+        - name: 远景论坛
+          description: 
+          url: https://bbs.pcbeta.com/
+        - name: 乐愚社区
+          description: 
+          url: https://bbs.leyuz.net/
