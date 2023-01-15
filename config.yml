@@ -216,48 +216,48 @@ content:
         - name: 聚收集导航
           description: 
           url: https://www.sjsdhw.com/
-        - name: 少数派
+        - name: imyshare
           description: 
-          url: https://sspai.com/
-        - name: 创造者日报
+          url: https://imyshare.com/
+        - name: 资源帝
           description: 
-          url: https://creatorsdaily.com/
-        - name: 新趣集
+          url: http://shu.ziyuandi.cn/
+        - name: 趣导航
           description: 
-          url: https://xinquji.com/
-        - name: IT之家
+          url: https://ifun.cool/
+        - name: 集知盒子
           description: 
-          url: https://soft.ithome.com/
-        - name: V2EX发现
+          url: https://www.jizhihezi.com/
+        - name: GF导航
           description: 
-          url: https://v2ex.com/go/share
-        - name: alternativeto
+          url: https://www.gatherfind.com/
+        - name: 一为导航
           description: 
-          url: https://alternativeto.net/
-        - name: sourceforge
+          url: http://nav.iowen.cn/
+        - name: 大佬导航
           description: 
-          url: https://sourceforge.net/
-        - name: filehippo
+          url: https://dalao.ru/2019/
+        - name: 极梦小屋
           description: 
-          url: https://filehippo.com/
-        - name: makeuseof
+          url: https://www.jimeng365.cn/
+        - name: 一纳米导航
           description: 
-          url: https://www.makeuseof.com/
-        - name: lifehacker
+          url: http://m.1nami.com/
+        - name: 麒麟摆渡
           description: 
-          url: https://lifehacker.com/   
-        - name: 52破解
+          url: https://70bd.com/  
+        - name: 效率集
           description: 
-          url: https://www.52pojie.cn/
-        - name: 卡饭论坛
+          url: http://www.xiaolvji.com/
+        - name: 果汁导航
           description: 
-          url: https://bbs.kafan.cn/
-        - name: 学破解
+          url: http://guozhivip.com/
+        - name: 大数据导航
           description: 
-          url: https://www.xuepojie.com/
-        - name: 远景论坛
+          url: http://hao.199it.com/
+        - name: 西西导航
           description: 
-          url: https://bbs.pcbeta.com/
-        - name: 乐愚社区
+          url: https://www.xixiurl.com/
+        - name: 黑导航
           description: 
-          url: https://bbs.leyuz.net/
+          url: https://heidh.com/
