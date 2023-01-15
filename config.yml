@@ -136,24 +136,48 @@ content:
         - name: Betalist
           description: 
           url: https://betalist.com/
-        - name: 小鲸鱼文献
-          description: 免费且全面的文献搜索引擎
-          url: http://www.9312.net/#/
-        - name: 万方数据
-          description: 各行业学术信息平台
-          url: https://www.wanfangdata.com.cn/index.html?index=true
-        - name: OALib
-          description: 较为全面的论文搜索平台
-          url: https://www.oalib.com/
-        - name: readpaper
-          description: 论文学术讨论社区
-          url: https://readpaper.com/
-        - name: MDPI论坛
-          description: 科研文章论坛，医学科类分得很细致
-          url: https://www.mdpi.com/
-        - name: 知网随问
-          description: 学术相关知识搜索引擎
-          url: https://qa.cnki.net/web/
-        - name: semantic
-          description: 老牌论文搜索引擎，需要一定的英文基础
-          url: https://www.semanticscholar.org/
+        - name: slant
+          description: 
+          url: https://www.slant.co/
+        - name: 前方软件站
+          description: 
+          url: https://qianfangzy.com/
+        - name: 小众软件站
+          description: 
+          url: https://www.appinn.com/
+        - name: 发现小众
+          description: 
+          url: https://meta.appinn.net/
+        - name: 最美应用
+          description: 
+          url: http://zuimeia.com/
+        - name: 少数派
+          description: 
+          url: https://sspai.com/
+        - name: 创造者日报
+          description: 
+          url: https://creatorsdaily.com/
+        - name: 新趣集
+          description: 
+          url: https://xinquji.com/
+        - name: IT之家
+          description: 
+          url: https://soft.ithome.com/
+        - name: V2EX发现
+          description: 
+          url: https://v2ex.com/go/share
+        - name: alternativeto
+          description: 
+          url: https://alternativeto.net/
+        - name: sourceforge
+          description: 
+          url: https://sourceforge.net/
+        - name: filehippo
+          description: 
+          url: https://filehippo.com/
+        - name: makeuseof
+          description: 
+          url: https://www.makeuseof.com/
+        - name: lifehacker
+          description: 
+          url: https://lifehacker.com/          
