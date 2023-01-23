@@ -14,7 +14,7 @@ url: https://githubworldjoker.github.io/medicineworld/
 github: "https://flowus.cn/share/db53be43-d938-49bf-a077-d9a03de88fa3"
 
 # footer message
-footer: © 2022-2023 希望这个导航能帮到你
+footer: © 2022-2023 希望这个导航能帮到你 公众号：李趣魂
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -222,6 +222,134 @@ content:
         - name: 资源帝
           description: 
           url: http://shu.ziyuandi.cn/
+        - name: 趣导航
+          description: 
+          url: https://ifun.cool/
+        - name: 集知盒子
+          description: 
+          url: https://www.jizhihezi.com/
+        - name: GF导航
+          description: 
+          url: https://www.gatherfind.com/
+        - name: 一为导航
+          description: 
+          url: http://nav.iowen.cn/
+        - name: 大佬导航
+          description: 
+          url: https://dalao.ru/2019/
+        - name: 极梦小屋
+          description: 
+          url: https://www.jimeng365.cn/
+        - name: 一纳米导航
+          description: 
+          url: http://m.1nami.com/
+        - name: 麒麟摆渡
+          description: 
+          url: https://70bd.com/  
+        - name: 效率集
+          description: 
+          url: http://www.xiaolvji.com/
+        - name: 果汁导航
+          description: 
+          url: http://guozhivip.com/
+        - name: 大数据导航
+          description: 
+          url: http://hao.199it.com/
+        - name: 西西导航
+          description: 
+          url: https://www.xixiurl.com/
+        - name: 黑导航
+          description: 
+          url: https://heidh.com/
+        - name: 博客大全
+          description: 
+          url: https://blogwe.com/
+        - name: addog
+          description: 
+          url: https://www.addog.vip/
+        - name: 前站导航
+          description: 
+          url: http://www.frontendjs.com/
+        - name: scihub导航
+          description: 
+          url: https://www.scihub.net.cn/
+        - name: 产品导航
+          description: 
+          url: https://www.pmbaobao.com/#section-1
+        - name: DAC导航
+          description: 
+          url: https://nwuzmed.ga/
+        - name: 小呆导航
+          description: 
+          url: https://webjike.com/index.html
+        - name: 紫花云
+          description: 
+          url: https://zihuayun.com/
+        - name: 笔点
+          description: 
+          url: https://www.bidianer.com/
+        - name: 箱格
+          description: 
+          url: https://xianggee.com/
+        - name: 资源兔
+          description: 
+          url: https://www.ziyuantu.com/
+        - name: 蜗牛导航
+          description: 
+          url: https://box.yangwang.ltd/
+        - name: 掌酷导航
+          description: 
+          url: https://www.zkdh.net/
+        - name: up6导航
+          description: 
+          url: https://www.up-6.com/
+        - name: 番喜导航
+          description: 
+          url: https://fxsh.com/
+        - name: 马丁库
+          description: 
+          url: https://www.martinku.cn/ 
+        - name: 挖宝狗
+          description: 
+          url: https://wabaogou.com/
+        - name: aboutPPT
+          description: 
+          url: https://www.aboutppt.com/
+        - name: 五花八门
+          description: 
+          url: http://lxqnsys.com/d/#/index
+        - name: 思谷搜
+          description: 
+          url: https://siguso.com/navi/
+        - name: 萌导航
+          description: 
+          url: https://www.moe123.net/
+    - name: 搜索聚合
+      sites:
+        - name: 淘链客
+          description: 
+          url: https://toplinks.cc/s/
+        - name: 化学搜索
+          description: 
+          url: https://m.chemicalbook.com/ProductIndex.aspx
+        - name: 植物通
+          description: 
+          url: https://zhiwutong.com/
+        - name: 淘声网
+          description: 
+          url: https://www.tosound.com/
+        - name: 道客巴巴
+          description: 
+          url: https://www.doc88.com/
+        - name: idata
+          description: 
+          url: https://www.cn-ki.net/
+        - name: 搜漫搜索
+          description: 
+          url: https://www.soman.com/
+        - name: 虫快搜
+          description: 
+          url: https://search.chongbuluo.com/
         - name: 趣导航
           description: 
           url: https://ifun.cool/
