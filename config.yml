@@ -82,7 +82,7 @@ content:
         - name: 爱爱医
           description:
           url: https://m.iiyi.com/lt/
-- name: 体制学习
+    - name: 体制学习
       sites:
         - name: 英语真题在线
           description: 专八，四六级，考研真题都有，质量很高
