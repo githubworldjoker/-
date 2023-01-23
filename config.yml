@@ -14,7 +14,7 @@ url: https://githubworldjoker.github.io/medicineworld/
 github: "https://flowus.cn/share/db53be43-d938-49bf-a077-d9a03de88fa3"
 
 # footer message
-footer: © 2022-2023 希望这个导航能帮到你 公众号：李趣魂
+footer: © 2022-2024 希望这个导航能帮到你   公众号：李趣魂
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -76,7 +76,13 @@ content:
         - name: 世界卫生组织
           description: 世卫官方网站
           url: https://www.who.int/zh
-    - name: 体制学习
+        - name: 医学论坛
+          description: 
+          url: https://www.cmt.com.cn/
+        - name: 爱爱医
+          description:
+          url: https://m.iiyi.com/lt/
+- name: 体制学习
       sites:
         - name: 英语真题在线
           description: 专八，四六级，考研真题都有，质量很高
@@ -350,15 +356,15 @@ content:
         - name: 虫快搜
           description: 
           url: https://search.chongbuluo.com/
-        - name: 趣导航
+        - name: 化妆品搜索
           description: 
-          url: https://ifun.cool/
-        - name: 集知盒子
+          url: https://www.cosdna.com/chs/
+        - name: ehow
           description: 
-          url: https://www.jizhihezi.com/
-        - name: GF导航
+          url: https://www.ehow.com/
+        - name: 论坛大全
           description: 
-          url: https://www.gatherfind.com/
+          url: http://www.scyky.com/
         - name: 一为导航
           description: 
           url: http://nav.iowen.cn/
