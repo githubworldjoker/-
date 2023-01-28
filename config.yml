@@ -389,12 +389,12 @@ content:
         - name: 镝数聚
           description: 
           url: https://www.dydata.io/
-        - name: 西西导航
+        - name: 问答库
           description: 
-          url: https://www.xixiurl.com/
-        - name: 黑导航
+          url: https://www.asklib.com/
+        - name: wikihow
           description: 
-          url: https://heidh.com/
+          url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
         - name: 博客大全
           description: 
           url: https://blogwe.com/
