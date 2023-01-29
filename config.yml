@@ -398,15 +398,15 @@ content:
         - name: 木材数据库
           description: 
           url: https://www.wood-database.com/
-        - name: addog
+        - name: 字体搜索
           description: 
-          url: https://www.addog.vip/
-        - name: 前站导航
+          url: https://www.100font.com/
+        - name: 恐龙数据库
           description: 
-          url: http://www.frontendjs.com/
-        - name: scihub导航
+          url: https://dinosaurpictures.org/?source=giaoshou.com
+        - name: 音效搜索
           description: 
-          url: https://www.scihub.net.cn/
+          url: https://taira-komori.jpn.org/freesoundcn.html?source=giaoshou.com
         - name: 产品导航
           description: 
           url: https://www.pmbaobao.com/#section-1
