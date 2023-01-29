@@ -395,9 +395,9 @@ content:
         - name: wikihow
           description: 
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-        - name: 博客大全
+        - name: 木材数据库
           description: 
-          url: https://blogwe.com/
+          url: https://www.wood-database.com/
         - name: addog
           description: 
           url: https://www.addog.vip/
