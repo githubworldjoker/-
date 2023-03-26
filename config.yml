@@ -351,12 +351,12 @@ content:
         - name: 果汁实验室
           description: 
           url: http://guozhivip.com/lab/
-        - name: 
+        - name: 优聚集
           description: 
-          url: 
-        - name: 
+          url: https://ujuji.com/
+        - name: 不死鸟
           description: 
-          url: 
+          url: https://dalao.ru/
         - name: 
           description: 
           url: 
@@ -524,6 +524,71 @@ content:
         - name: 
           description: 
           url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+    - name: 特色网站
+      sites:        
+        - name: 书签地球
+          description: 
+          url: https://www.bookmarkearth.com/
+        - name: drrr聊天室
+          description: 
+          url: https://drrr.com/
+        - name: 合集网
+          description: 
+          url: https://233heji.com/
+        - name: 搜网通
+          description: 
+          url: https://www.s5t.com/
+        - name: 阿虚同学
+          description: 
+          url: https://axutongxue.com/
+        - name: similarto
+          description: 
+          url: https://www.similarto.us/
+        - name: i3社区
+          description: 
+          url: https://www.i3zh.com/
+        - name: 奇趣网站
+          description: 
+          url: https://fuun.fun/
+        - name: app喵
+          description: 
+          url: https://www.appmiu.com/
+        - name: 趣乐兔
+          description: 
+          url: https://funletu.com/
+        - name: github
+          description: 
+          url: https://github.com/
+        - name: 只读
+          description: 
+          url: https://www.rdonly.com/
+        - name: 万物对比
+          description: 
+          url: https://versus.com/cn
+        - name: 煎蛋
+          description: 
+          url: http://i.jandan.net/
+        - name: 网上厨房
+          description: 
+          url: https://m.ecook.cn/
+        - name: 快吧软件
+          description: 
+          url: http://www.fast8.cc/
+        - name: greasyfork
+          description: 
+          url: https://greasyfork.org/zh-CN
+        - name: 文叔叔
+          description: 
+          url: https://www.wenshushu.cn/
         - name: 
           description: 
           url: 
