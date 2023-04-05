@@ -814,165 +814,507 @@ content:
         - name: zz音乐
           description: 
           url: https://www.zz123.com/
-        - name: 
+        - name: 青麦
           description: 
-          url: 
-        - name: 
+          url: https://www.qimaitv.com/
+        - name: 创造者日报
           description: 
-          url: 
-        - name: 
+          url: https://creatorsdaily.com/
+        - name: 共创世界
           description: 
-          url: 
-        - name: 
+          url: https://www.ccw.site/
+        - name: 基本操作
           description: 
-          url: 
-        - name: 
+          url: https://jibencaozuo.com/zh-Hans/
+        - name: 互联网黑话
           description: 
-          url: 
-        - name: 
+          url: https://nujuo8y1qx.feishu.cn/docs/doccnGbXj47lGM1iqHk7L1UyW8p#0FTXfM
+        - name: 期刊杂志
           description: 
-          url: 
-        - name: 
+          url: http://new-qk.lifves.com/wap.php?source=giaoshou.com
+        - name: 蝌蚪聊天室
           description: 
-          url: 
-        - name: 
+          url: http://chat.zzzgd.info/
+        - name: 死亡公司公墓
           description: 
-          url: 
-        - name: 
+          url: https://m.itjuzi.com/deathCompany
+        - name: 超能网
           description: 
-          url: 
-        - name: 
+          url: https://www.expreview.com/
+        - name: 下一个
           description: 
-          url: 
-        - name: 
+          url: https://x1g.la/
+        - name: 小冰框架
           description: 
-          url: 
-        - name: 
+          url: https://my.xiaoice.com/
+        - name: 搞英语
           description: 
-          url:         
-        - name: 
+          url: https://www.gaoyy.com/
+        - name: 冷熊简历
           description: 
-          url: 
-        - name: 
+          url: http://cv.ftqq.com/#
+        - name: 书栈网
           description: 
-          url: 
-        - name: 
+          url: https://www.bookstack.cn/
+        - name: 树图
           description: 
-          url: 
-        - name: 
+          url: https://shutu.cn/
+        - name: onetab
           description: 
-          url: 
-        - name: 
+          url: https://www.one-tab.com/page/hzCnHaBpSamfY1i1CPaymw?f=s5t.com
+        - name: xx资源网
           description: 
-          url: 
-        - name: 
+          url: https://www.xxurls.com/?f=s5t.com
+        - name: 啊噗聊天
           description: 
-          url: 
-        - name: 
+          url: https://www.uplt.com/
+        - name: vultr
           description: 
-          url: 
-        - name: 
+          url: https://www.vultr.com/
+        - name: 站长工具
           description: 
-          url: 
-        - name: 
+          url: https://www.aizhan.com/
+        - name: 数据可视化
           description: 
-          url: 
-        - name: 
+          url: http://datav.aliyun.com/portal/school/atlas/area_selector#&lat=31.769817845138945&lng=104.29901249999999&zoom=4
+        - name: 外语学习
           description: 
-          url: 
-        - name: 
+          url: https://mylanguages.org/#menu-toggle
+        - name: 大学课件
           description: 
-          url: 
-        - name: 
+          url: http://download.cucdc.com/?ref=www.wisecoco.com
+        - name: 哎呦不错
           description: 
-          url: 
-        - name: 
+          url: https://qianfangzy.com/
+        - name: 指尖上
           description: 
-          url: 
-        - name: 
+          url: https://www.zhijianshang.com/
+        - name: simsimi
           description: 
-          url: 
-        - name: 
+          url: http://www.simsimi.com/chat
+        - name: 与熊论道
           description: 
-          url: 
-        - name: 
+          url: http://hi.pcmoe.net/index.html
+        - name: 机械社区
           description: 
-          url: 
-        - name: 
+          url: http://www.cmiw.cn/
+        - name: 哇哦菌
           description: 
-          url: 
-        - name: 
+          url: https://www.waodown.com/
+        - name: 文案生成器
           description: 
-          url: 
-        - name: 
+          url: https://pyq.shadiao.pro/
+        - name: 孤丑
           description: 
-          url: 
-        - name: 
+          url: https://www.jokerps.com/
+        - name: 老画报
           description: 
-          url: 
-        - name: 
+          url: http://www.laohuabao.com/index.html#
+        - name: 物理模型
           description: 
-          url:         
-        - name: 
+          url: https://www.compadre.org/physlets/
+        - name: 地球旧照
           description: 
-          url: 
-        - name: 
+          url: https://3d-app.yunser.com/plateMotion
+        - name: 数教软件
           description: 
-          url: 
-        - name: 
+          url: https://www.geogebra.org/
+        - name: beatstage
           description: 
-          url: 
-        - name: 
+          url: https://www.beatstage.com/
+        - name: emoji
           description: 
-          url: 
-        - name: 
+          url: https://unicode.org/emoji/charts/full-emoji-list.html
+        - name: texh
           description: 
-          url: 
-        - name: 
+          url: https://texhocean.com/
+        - name: 模拟工件
           description: 
-          url: 
-        - name: 
+          url: https://mechw.com/?source=giaoshou.com
+        - name: 张大妈计算器
           description: 
-          url: 
-        - name: 
+          url: https://hizdm.cn/
+        - name: 一席
           description: 
-          url: 
-        - name: 
+          url: https://yixi.tv/#/home
+        - name: 环球科学
           description: 
-          url: 
-        - name: 
+          url: https://huanqiukexue.com/
+        - name: 地球模拟
           description: 
-          url: 
-        - name: 
+          url: https://earth.nullschool.net/zh-cn/#current/wind/surface/level/orthographic=-240.00,0.00,378/loc=118.676,10.831
+        - name: 沉迷摸鱼
           description: 
-          url: 
-        - name: 
+          url: http://moyu.xxmd.com/?source=giaoshou.com
+        - name: 傅里叶变换
           description: 
-          url: 
-        - name: 
+          url: https://www.jezzamon.com/fourier/zh-cn.html
+        - name: 图片转手绘
           description: 
-          url: 
-        - name: 
+          url: http://www.yingjingtu.com/imageToCartoon?source=giaoshou.com
+        - name: 行星数据发布系统
           description: 
-          url: 
-        - name: 
+          url: https://moon.bao.ac.cn/?source=giaoshou.com
+        - name: 宇宙模拟
           description: 
-          url: 
-        - name: 
+          url: http://stars.chromeexperiments.com/?source=giaoshou.com
+        - name: 太极书馆
           description: 
-          url: 
-        - name: 
+          url: https://www.8bei8.com/?source=giaoshou.com
+        - name: 万物原理
           description: 
-          url: 
-        - name: 
+          url: https://animagraffs.com/?source=giaoshou.com
+        - name: 中哲电子化
           description: 
-          url: 
-        - name: 
+          url: https://ctext.org/zhs?source=giaoshou.com
+        - name: 理想生活实验室
           description: 
-          url: 
-        - name: 
+          url: https://www.toodaylab.com/?source=giaoshou.com
+        - name: 中日文献数据台
           description: 
-          url: 
-        - name: 
+          url: https://www.modernhistory.org.cn/?source=giaoshou.com#/
+        - name: 哇咔工具
           description: 
-          url: 
+          url: https://www.wakatool.com/
+        - name: 克苏鲁公社
+          description: 
+          url: https://www.cthulhuclub.com/
+        - name: 轻微博客
+          description: 
+          url: https://www.qwbk.net/
+        - name: 说话的艺术
+          description: 
+          url: https://lovelive.tools/
+        - name: 听潮亭
+          description: 
+          url: https://web.okarin.cn/
+        - name: 海拥
+          description: 
+          url: http://haiyong.site/moyu/
+        - name: 学习猫
+          description: 
+          url: https://learncat.cn/home?ref=www.qssily.com
+        - name: 航天模型
+          description: 
+          url: https://axmpaperspacescalemodels.com/
+        - name: 本卡风
+          description: 
+          url: https://bkfeng.top/
+        - name: 数字多宝阁
+          description: 
+          url: https://www.dpm.org.cn/shuziduobaoge.html
+        - name: 中植标本馆
+          description: 
+          url: https://www.cvh.ac.cn/
+        - name: 核弹当量
+          description: 
+          url: https://nuclearsecrecy.com/nukemap/
+        - name: 资分站
+          description: 
+          url: https://94fbr.net/
+        - name: 移芯排行
+          description: 
+          url: https://www.socpk.com/
+        - name: 3231
+          description: 
+          url: https://it-cxy.top/
+        - name: 医学题库王
+          description: 
+          url: http://examatlas.medicool.cn/mediexam/index.aspx
+        - name: 图欧学习
+          description: 
+          url: https://tuostudy.upnb.top/
+        - name: 元素周期表
+          description: 
+          url: https://periodic-table-pro.netlify.app/
+        - name: 医学题库
+          description: 
+          url: https://www.medtiku.com/app#/
+        - name: ai研究所
+          description: 
+          url: https://www.aiyjs.com/
+        - name: 野猫
+          description: 
+          url: http://yemao.one/
+        - name: 报纸在线
+          description: 
+          url: http://www.53bk.com/Baokan/
+        - name: 国家法律
+          description: 
+          url: https://flk.npc.gov.cn/
+        - name: 时间校准
+          description: 
+          url: https://time.is/
+        - name: yeelogo
+          description: 
+          url: http://yeelogo.com/#/
+        - name: 挖互联网
+          description: 
+          url: https://tigg.cc/
+        - name: littlealchemy2
+          description: 
+          url: https://littlealchemy2.com/
+        - name: mac房子
+          description: 
+          url: https://www.macfz.com/
+        - name: zoomearth
+          description: 
+          url: https://zoom.earth/
+        - name: photopea
+          description: 
+          url: https://www.photopea.com/
+        - name: 搬书匠
+          description: 
+          url: http://www.banshujiang.cn/
+        - name: 少儿编程学院
+          description: 
+          url: https://edu.shaoerbc.org/
+        - name: 70+真题
+          description: 
+          url: https://docs.qq.com/doc/DWk5zZUhXZnhjc2lx
+        - name: 阿啊表情
+          description: 
+          url: https://ah-ah.dorgel.net/
+        - name: i看机器人
+          description: 
+          url: https://www.ikanbot.com/
+        - name: 电子课本
+          description: 
+          url: http://m.dzkbw.com/
+        - name: 极像素
+          description: 
+          url: https://www.sigoo.com/
+        - name: 自由钢琴
+          description: 
+          url: https://www.autopiano.cn/zh-TW/
+        - name: 爱斗图
+          description: 
+          url: http://www.adoutu.com/index
+        - name: 趣网之家
+          description: 
+          url: https://youquhome.com/
+        - name: 蔷薇花园
+          description: 
+          url: https://iirose.com/
+        - name: SCP
+          description: 
+          url: https://scp-wiki-cn.wikidot.com/
+        - name: 知客驿站
+          description: 
+          url: https://www.zkcee.com/
+        - name: 萝卜工坊
+          description: 
+          url: http://www.beautifulcarrot.com/
+        - name: 极简壁纸
+          description: 
+          url: https://bz.zzzmh.cn/index
+        - name: 第一教程
+          description: 
+          url: https://www.diyijc.com/
+        - name: 阿影资源
+          description: 
+          url: https://www.4241.cn/
+        - name: 36k
+          description: 
+          url: https://36kdh.com/
+        - name: 阿酷杂货铺
+          description: 
+          url: https://www.coolexe.com/
+        - name: 中国物种名录
+          description: 
+          url: http://sp2000.org.cn/
+        - name: 硬件测试
+          description: 
+          url: https://blurbusters.com/
+        - name: 浏览器操作
+          description: 
+          url: https://dustinbrett.com/
+        - name: 外星探索
+          description: 
+          url: http://m1.ufo-1.cn/
+        - name: 互黑生
+          description: 
+          url: http://www.shadowingszy.top/text-generator/index.html
+        - name: 谷歌学术镜像
+          description: 
+          url: http://scholar.scqylaw.com/
+        - name: 草料二维码
+          description: 
+          url: https://cli.im/
+        - name: 动物学杂志
+          description: 
+          url: http://dwxzz.ioz.ac.cn/ch/index.aspx
+        - name: 藏经阁
+          description: 
+          url: https://doc.xiaoz.me/
+        - name: 避孕china
+          description: 
+          url: https://www.china-wcd.com/
+        - name: 政法西南
+          description: 
+          url: https://publish.obsidian.md/wanyulawyer/Lawsight
+        - name: 工具达人
+          description: 
+          url: https://toolsdar.com/
+        - name: 参考网
+          description: 
+          url: https://m.fx361.com/
+        - name: 海棠网
+          description: 
+          url: https://www.haitangw.net/
+        - name: 小韩博客
+          description: 
+          url: https://www.vvhan.com/
+        - name: 好大学在线
+          description: 
+          url: https://www.cnmooc.org/home/index.mooc
+        - name: 技术松鼠
+          description: 
+          url: https://www.jishusongshu.com/
+        - name: 卡饭网
+          description: 
+          url: https://m.kafan.cn/
+        - name: replicate
+          description: 
+          url: https://replicate.com/
+        - name: 考试资料网
+          description: 
+          url: https://m.ppkao.com/
+        - name: 老郭种树
+          description: 
+          url: https://guozh.net/
+        - name: 理工酷
+          description: 
+          url: https://www.ligongku.com/
+        - name: 路羽博客
+          description: 
+          url: https://www.luyuz.cn/
+        - name: 迷鹿导航
+          description: 
+          url: https://404l.com/
+        - name: 蘑菇导航
+          description: 
+          url: https://mogu.fun/
+        - name: 求索之路
+          description: 
+          url: https://www.qiusuozhilu.com/
+        - name: 软仓
+          description: 
+          url: https://www.ruancang.net/#/sim
+        - name: 什么值得读
+          description: 
+          url: https://www.shenmezhidedu.com/
+        - name: 人人自学网
+          description: 
+          url: https://www.rrzxw.net/
+        - name: 全图参咨联
+          description: 
+          url: http://www.ucdrs.superlib.net/
+        - name: 实习僧
+          description: 
+          url: https://tuiguang.shixiseng.com/
+        - name: 实验空间
+          description: 
+          url: https://www.ilab-x.com/
+        - name: 手艺活
+          description: 
+          url: https://www.shouyihuo.com/
+        - name: 合同示范文本库
+          description: 
+          url: https://cont.12315.cn/
+        - name: 好读
+          description: 
+          url: https://haodoo.net/?M=hd&P=welcome
+        - name: 知识库
+          description: 
+          url: https://www.zhishikoo.com/
+        - name: 书乐里
+          description: 
+          url: https://www.sulery.com/
+        - name: 搜书网
+          description: 
+          url: http://www.soushu.vip/
+        - name: 所长导航
+          description: 
+          url: https://liutongxu.github.io/
+        - name: 奶爸网站
+          description: 
+          url: https://www.nbwz.com/
+        - name: 皮友资源吧
+          description: 
+          url: https://www.pyzyb.com/
+        - name: 数字生活指南
+          description: 
+          url: https://www.guidebook.top/
+        - name: 外文杂志
+          description: 
+          url: https://magazinelib.com/
+        - name: 万有导航
+          description: 
+          url: https://wanyouw.com/
+        - name: 网易云阅读
+          description: 
+          url: https://yuedu.163.com/
+        - name: 文泉学堂
+          description: 
+          url: https://www.wqxuetang.com/#/school
+        - name: 下次一定
+          description: 
+          url: https://www.iiice.cn/#/
+        - name: 学科自学指南
+          description: 
+          url: https://mugglewei.github.io/learning_compass/
+        - name: 小弈
+          description: 
+          url: https://www.xiaoyi.vc/
+        - name: 小论文神器
+          description: 
+          url: https://essay.1ts.fun/
+        - name: 无痕哥
+          description: 
+          url: https://www.whg6.com/
+        - name: 文艺数学君
+          description: 
+          url: https://mathpretty.com/
+        - name: 红黑人口库
+          description: 
+          url: https://www.hongheiku.com/
+        - name: 电子证书生成
+          description: 
+          url: https://e-cert.pages.dev/
+        - name: 低分电影宇宙
+          description: 
+          url: https://datamuse.guokr.com/wmu
+        - name: 久留网
+          description: 
+          url: https://www.96ew.com/
+        - name: 技术拉近你我
+          description: 
+          url: https://coderschool.cn/
+        - name: 绳结大全
+          description: 
+          url: https://www.animatedknots.com/
+        - name: vxat
+          description: 
+          url: https://www.vxat.com/
+        - name: AnyKnew
+          description: 
+          url: https://www.anyknew.com/#/
+        - name: 接码号
+          description: 
+          url: https://jiemahao.com/
+        - name: 游戏性能测试
+          description: 
+          url: https://www.systemrequirementslab.com/cyri
+        - name: Scratch中社
+          description: 
+          url: https://www.scratch-cn.cn/
+        - name: 虚拟桌面
+          description: 
+          url: http://demo.ylui.yuri2.cn/
+        - name: pubmed
+          description: 
+          url: https://pubmed.ncbi.nlm.nih.gov/
+        - name: 知识效率集
+          description: 
+          url: https://efficiency.super.site/
