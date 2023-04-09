@@ -372,27 +372,45 @@ content:
         - name: 爱达杂货铺
           description: 
           url: https://adzhp.vip/
-        - name: 
+        - name: 药研导航
           description: 
-          url: 
-        - name: 
+          url: https://drugx.cn/        
+        - name: noise导航
           description: 
-          url: 
-        - name: 
+          url: https://www.noisedh.cn/  
+        - name: 快导航
           description: 
-          url: 
-        - name: 
+          url: https://www.hifast.cn/
+        - name: oneGo导航
           description: 
-          url: 
-        - name: 
+          url: https://ionego.net/
+        - name: 影视森林
           description: 
-          url: 
-        - name: 
+          url: https://www.549.tv/    
+        - name: 下次一定
           description: 
-          url: 
-        - name: 
+          url: https://www.iiice.cn/#/
+        - name: 万有导航
           description: 
-          url: 
+          url: https://wanyouw.com/
+        - name: 奶爸网站
+          description: 
+          url: https://www.nbwz.com/
+        - name: 所长导航
+          description: 
+          url: https://liutongxu.github.io/
+        - name: 迷鹿导航
+          description: 
+          url: https://404l.com/
+        - name: 蘑菇导航
+          description: 
+          url: https://mogu.fun/
+        - name: 阿酷杂货铺
+          description: 
+          url: https://www.coolexe.com/
+        - name: 36k
+          description: 
+          url: https://36kdh.com/
     - name: 搜索聚合
       sites:
         - name: 淘链客
@@ -470,69 +488,102 @@ content:
         - name: 音效搜索
           description: 
           url: https://taira-komori.jpn.org/freesoundcn.html?source=giaoshou.com
-        - name: 
+        - name: 地铁数据库
           description: 
-          url: 
-        - name: 
+          url: https://metrodb.org/        
+        - name: 软件搜搜
           description: 
-          url: 
-        - name: 
+          url: https://rjss.pages.dev/
+        - name: 联合文献传递
           description: 
-          url: 
-        - name: 
+          url: http://www.ucdrs.net/admin/union/index.do
+        - name: 元素周期表
           description: 
-          url: 
-        - name: 
+          url: https://ptable.com/#
+        - name: 第一PPT
           description: 
-          url: 
-        - name: 
+          url: https://www.1ppt.com/
+        - name: 星联计划
           description: 
-          url: 
-        - name: 
+          url: https://satellitemap.space/?constellation=starlink
+        - name: 卫星地球
           description: 
-          url: 
-        - name: 
+          url: https://www.earthol.com/
+        - name: 绳结大全
           description: 
-          url: 
-        - name: 
+          url: https://www.animatedknots.com/
+        - name: 红黑人口库
           description: 
-          url: 
-        - name: 
+          url: https://www.hongheiku.com/
+        - name: 什么值得读
           description: 
-          url: 
-        - name: 
+          url: https://www.shenmezhidedu.com/
+        - name: 动物学杂志
           description: 
-          url: 
-        - name: 
+          url: http://dwxzz.ioz.ac.cn/ch/index.aspx
+        - name: 中国物种名录
           description: 
-          url: 
-        - name: 
+          url: http://sp2000.org.cn/
+        - name: SCP
           description: 
-          url: 
-        - name: 
+          url: https://scp-wiki-cn.wikidot.com/
+        - name: 电子课本
           description: 
-          url: 
-        - name: 
+          url: http://m.dzkbw.com/
+        - name: zoomearth
           description: 
-          url: 
-        - name: 
+          url: https://zoom.earth/
+        - name: 报纸在线
           description: 
-          url: 
-        - name: 
+          url: http://www.53bk.com/Baokan/
+        - name: 国家法律
           description: 
-          url: 
-        - name: 
+          url: https://flk.npc.gov.cn/
+        - name: 移芯排行
           description: 
-          url: 
-        - name: 
+          url: https://www.socpk.com/
+        - name: 中植标本馆
           description: 
-          url: 
-        - name: 
+          url: https://www.cvh.ac.cn/
+        - name: 数字多宝阁
           description: 
-          url: 
-        - name: 
+          url: https://www.dpm.org.cn/shuziduobaoge.html
+        - name: 中日文献数据台
           description: 
-          url: 
+          url: https://www.modernhistory.org.cn/?source=giaoshou.com#/
+        - name: 中哲电子化
+          description: 
+          url: https://ctext.org/zhs?source=giaoshou.com
+        - name: 万物原理
+          description: 
+          url: https://animagraffs.com/?source=giaoshou.com
+        - name: 行星数据发布系统
+          description: 
+          url: https://moon.bao.ac.cn/?source=giaoshou.com
+        - name: 环球科学
+          description: 
+          url: https://huanqiukexue.com/
+        - name: 豌豆pro
+          description: 
+          url: https://www.wandou.pro/
+        - name: 中国自然标本馆
+          description: 
+          url: http://www.cfh.ac.cn/default.html
+        - name: 今日热榜
+          description: 
+          url: https://tophub.today/
+        - name: 思奥fm
+          description: 
+          url: https://sao.fm/
+        - name: 世界数字图书馆
+          description: 
+          url: https://www.loc.gov/
+        - name: 小鱼速读
+          description: 
+          url: http://m.xysudu.com/
+        - name: 万物对比
+          description: 
+          url: https://versus.com/cn
     - name: 特色网站
       sites:        
         - name: 书签地球
@@ -831,7 +882,7 @@ content:
           url: https://nujuo8y1qx.feishu.cn/docs/doccnGbXj47lGM1iqHk7L1UyW8p#0FTXfM
         - name: 期刊杂志
           description: 
-          url: http://new-qk.lifves.com/wap.php?source=giaoshou.com
+          url: http://new-qk.lifves.com/
         - name: 蝌蚪聊天室
           description: 
           url: http://chat.zzzgd.info/
