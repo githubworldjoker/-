@@ -1594,6 +1594,54 @@ content:
         - name: 字体生成
           description: 
           url: https://fontmeme.com/zh/
+        - name: itch
+          description: 
+          url: https://itch.io/
+        - name: 模之屋
+          description: 
+          url: https://www.aplaybox.com/
+        - name: 爱给
+          description: 
+          url: https://www.aigei.com/
+        - name: CG99
+          description: 
+          url: https://www.cg99.com/  
+        - name: 微元素
+          description: 
+          url: https://www.element3ds.com/
+        - name: 游素网
+          description: 
+          url: https://www.yswgame.com/
+        - name: KENNEY
+          description: 
+          url: https://www.kenney.nl/
+        - name: 医疗图标
+          description: 
+          url: https://healthicons.org/
+        - name: Doodle Icons
+          description: 
+          url: https://khushmeen.com/icons.html?from=thosefree.com
+        - name: 青模网
+          description: 
+          url: https://www.qingmo.com/
+        - name: coverr
+          description: 
+          url: https://coverr.co/
+        - name: 公共3D资源库
+          description: 
+          url: https://polyhaven.com/zh
+        - name: creativetrio
+          description: 
+          url: https://creativetrio.art/
+        - name: ambientcg
+          description: 
+          url: https://ambientcg.com/
+        - name: 3D资源
+          description: 
+          url: https://3d.si.edu/
+        - name: Free CG
+          description: 
+          url: https://mantissa.xyz/pages/free.html
         - name: 
           description: 
           url: 
@@ -1605,4 +1653,19 @@ content:
           url: 
         - name: 
           description: 
-          url:           
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url:   
