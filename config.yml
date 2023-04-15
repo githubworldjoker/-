@@ -103,12 +103,12 @@ content:
         - name: 十万个为什么
           description: 
           url: https://10why.net/
-        - name: 
+        - name: 中数科技馆
           description: 
-          url: 
-        - name: 
+          url: https://www.cdstm.cn/
+        - name: sci-hub
           description: 
-          url: 
+          url: https://sci-hub.se/
         - name: 
           description: 
           url: 
@@ -1705,9 +1705,9 @@ content:
         - name: Free CG
           description: 
           url: https://mantissa.xyz/pages/free.html
-        - name: 
+        - name: yovisun
           description: 
-          url: 
+          url: https://tool.yovisun.com/
         - name: 
           description: 
           url: 
