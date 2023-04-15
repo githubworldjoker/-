@@ -45,7 +45,7 @@ content:
           url: https://ask.nocode.com/
         - name: 默沙东诊疗手册
           description: 专业医学科普网站
-          url: https://www.msdmanuals.cn/home
+          url: https://www.msdmanuals.cn/?ruleredirectid=14
         - name: 百科名医
           description: 适配手机的医学百科
           url: https://m.baikemy.com/v1/
@@ -584,6 +584,9 @@ content:
         - name: 万物对比
           description: 
           url: https://versus.com/cn
+        - name: 唤醒食物
+          description: 
+          url: https://www.foodwake.com/
     - name: 特色网站
       sites:        
         - name: 书签地球
@@ -1531,3 +1534,75 @@ content:
         - name: 哎呦不错
           description: 
           url: https://aiyoubucuo.com/
+        - name: 独立游戏开发
+          description: 
+          url: https://godotengine.cn/
+        - name: 便宜点货源网
+          description: 
+          url: https://pydhy.com/       
+        - name: 吉他堂
+          description: 
+          url: https://www.jitatang.cn/ 
+        - name: 天际线
+          description: 
+          url: https://www.skylinewebcams.com/
+        - name: 电子画廊
+          description: 
+          url: https://gallerix.asia/
+        - name: 浏览器快捷搜索框
+          description: 
+          url: https://bar.ssstab.com/
+        - name: 爱校对
+          description: 
+          url: https://www.ijiaodui.com/
+        - name: 外社信息
+          description: 
+          url: http://realtime.info/
+        - name: 国外免费壁纸
+          description: 
+          url: https://hdqwalls.com/
+        - name: 第一试卷网
+          description: 
+          url: https://www.shijuan1.com/
+        - name: 爱因斯坦模型
+          description: 
+          url: https://fora.chat/
+        - name: zz123
+          description: 
+          url: https://www.zz123.com/
+        - name: 煎饼搜音乐
+          description: 
+          url: https://www.jbsou.cn/
+        - name: myfreeMP3
+          description: 
+          url: https://tool.liumingye.cn/music/#/
+        - name: 炼码
+          description: 
+          url: https://www.lintcode.com/
+        - name: 免费API
+          description: 
+          url: https://api.aa1.cn/
+        - name: 咕咕数据
+          description: 
+          url: https://www.gugudata.com/
+        - name: 云代码
+          description: 
+          url: https://yuncode.net/ 
+        - name: py库集
+          description: 
+          url: https://pypi.org/
+        - name: 字体生成
+          description: 
+          url: https://fontmeme.com/zh/
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url:           
