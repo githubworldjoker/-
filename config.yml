@@ -82,6 +82,69 @@ content:
         - name: 爱爱医
           description:
           url: https://m.iiyi.com/lt/
+        - name: 生物谷
+          description: 
+          url: https://www.bioon.com/
+        - name: 果壳
+          description: 
+          url: https://www.guokr.com/
+        - name: 科学松鼠会
+          description: 
+          url: https://songshuhui.net/
+        - name: 泛科学
+          description: 
+          url: https://pansci.asia/
+        - name: 科普中国
+          description: 
+          url: https://www.kepuchina.cn/
+        - name: 微科普
+          description: 
+          url: https://www.wkepu.com/
+        - name: 十万个为什么
+          description: 
+          url: https://10why.net/
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url:           
     - name: 体制学习
       sites:
         - name: 英语真题在线
