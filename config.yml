@@ -314,9 +314,9 @@ content:
         - name: 小木虫论坛
           description: 
           url: http://muchong.com/bbs/index.php
-        - name: 
+        - name: pubmed
           description: 
-          url: 
+          url: https://pubmed.ncbi.nlm.nih.gov/
         - name: 
           description: 
           url: 
